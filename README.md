@@ -79,4 +79,4 @@ I enjoy learning new technologies, solving problems, and turning ideas into prac
 
 ---
 
-> **"Learning. Building. Growing." **
+> Learning. Building. Growing.
