@@ -1,24 +1,24 @@
-# Hi, I'm Shivane Kottur 👋
+# Hi, I'm Shivane Kottur 
 
-💻 B.E. 3rd Year Student at Ballari Institute of Technology and Management
+B.E. 3rd Year Student at Ballari Institute of Technology and Management
 
-🌱 I'm currently exploring **Cybersecurity** and **Data Analytics** while improving my **Python** skills and building real-world projects.
+I'm currently exploring **Cybersecurity** and **Data Analytics** while improving my **Python** skills and building real-world projects.
 
-💡 I enjoy learning new technologies, solving problems, and turning ideas into practical solutions.
-
----
-
-## 🚀 About Me
-
-- 🔐 Interested in Cybersecurity
-- 📊 Interested in Data Analytics
-- 🐍 Python Learner
-- 🛠️ Building real-world projects
-- 💼 Preparing for placements
+I enjoy learning new technologies, solving problems, and turning ideas into practical solutions.
 
 ---
 
-## 💻 Skills
+## About Me
+
+-  Interested in Cybersecurity
+-  Interested in Data Analytics
+-  Python Learner
+-  Building real-world projects
+-  Preparing for placements
+
+---
+
+##  Skills
 
 ### Languages
 - C
@@ -34,49 +34,49 @@
 
 ---
 
-## 📂 Projects
+##  Projects
 
-- 🛡️ Smart Civic Safety and Security System
-- 📚 Knowledge Sharing Platform with professional guidance*(In Progress)*
+-  Smart Civic Safety and Security System
+-  Knowledge Sharing Platform with professional guidance*(In Progress)*
 
 ---
 
-## 🏆 Certification
+##  Certification
 
 - IEEE Neo Codex Participation Certificate
 
 ---
 
-## 🎯 Current Goals
+##  Current Goals
 
-- 🚀 Build impactful projects
-- 📖 Learn something new every day
-- 🤝 Contribute to Open Source
-- 💼 Prepare for placements
-
----
-
-## 🎮 Hobbies
-
-- 💻 Coding
-- 🎮 Gaming
-- 🏏 Playing Cricket
-- 👨‍🍳 Cooking
+-  Build impactful projects
+-  Learn something new every day
+-  Contribute to Open Source
+-  Prepare for placements
 
 ---
 
-## 📫 Connect with Me
+##  Hobbies
 
-📧 Email: **shivanekottur04@gmail.com**
+-  Coding
+-  Gaming
+-  Playing Cricket
+-  Cooking
+
+---
+
+##  Connect with Me
+
+🔗 Email: **shivanekottur04@gmail.com**
 
 🔗 LinkedIn: www.linkedin.com/in/shiv-kottur-117a24383
 
-📷 Instagram: www.instagram.com/shivkottur_?igsh=MWMzenpmeWtmY2xyZA==
+🔗 Instagram: www.instagram.com/shivkottur_?igsh=MWMzenpmeWtmY2xyZA==
 
 🔗 X: https://x.com/KotturShiv
 
-💻 LeetCode: https://leetcode.com/u/Shivane_Kottur/
+🔗 LeetCode: https://leetcode.com/u/Shivane_Kottur/
 
 ---
 
-> **"Learning. Building. Growing." 🚀**
+> **"Learning. Building. Growing." **
