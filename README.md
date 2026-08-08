@@ -37,7 +37,7 @@ I enjoy learning new technologies, solving problems, and turning ideas into prac
 ##  Projects
 
 -  Smart Civic Safety and Security System
--  Knowledge Sharing Platform with professional guidance*(In Progress)*
+-  Skill bridge
 
 ---
 
