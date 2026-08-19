@@ -1,6 +1,6 @@
 # Hi, I'm Shivane Kottur 
 
-B.E. 3rd Year Student at Ballari Institute of Technology and Management
+B.E. in Computer science and engineering-Artificial Intelligence,3rd Year Student at Ballari Institute of Technology and Management
 
 I'm currently exploring **Cybersecurity** and **Data Analytics** while improving my **Python** skills and building real-world projects.
 
