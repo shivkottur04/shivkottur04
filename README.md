@@ -1,6 +1,6 @@
-# Hi, I'm Shivane Kottur 
+# Hi, I'm Shivane Kottur
 
-B.E. in Computer science and engineering-Artificial Intelligence,3rd Year Student at Ballari Institute of Technology and Management
+B.E. in Computer Science and Engineering – Artificial Intelligence, 3rd Year Student at Ballari Institute of Technology and Management.
 
 I'm currently exploring **Cybersecurity** and **Data Analytics** while improving my **Python** skills and building real-world projects.
 
@@ -10,15 +10,17 @@ I enjoy learning new technologies, solving problems, and turning ideas into prac
 
 ## About Me
 
--  Interested in Cybersecurity
--  Interested in Data Analytics
--  Python Learner
--  Building real-world projects
--  Preparing for placements
+- B.E. CSE – Artificial Intelligence | 3rd Year
+- CGPA: **9.61**
+- Interested in Cybersecurity
+- Interested in Data Analytics
+- Python Learner
+- Building real-world projects
+- Preparing for placements
 
 ---
 
-##  Skills
+## Skills
 
 ### Languages
 - C
@@ -34,49 +36,52 @@ I enjoy learning new technologies, solving problems, and turning ideas into prac
 
 ---
 
-##  Projects
+## Projects
 
--  Smart Civic Safety and Security System
--  Skill bridge
+- **Smart Civic Safety and Security System**
+- **SkillBridge** – Skill sharing, career guidance, and learning platform
+- **ShadowPY** – Python-focused learning and development platform with AI-powered tools, coding playground, debugging, quizzes, challenges, and code analysis
 
 ---
 
-##  Certification
+## Certification
 
 - IEEE Neo Codex Participation Certificate
 
 ---
 
-##  Current Goals
+## Current Goals
 
--  Build impactful projects
--  Learn something new every day
--  Contribute to Open Source
--  Prepare for placements
-
----
-
-##  Hobbies
-
--  Coding
--  Gaming
--  Playing Cricket
--  Cooking
+- Build impactful projects
+- Learn something new every day
+- Contribute to Open Source
+- Prepare for placements
+- Strengthen my Cybersecurity knowledge
+- Improve my Data Analytics skills
 
 ---
 
-##  Connect with Me
+## Hobbies
 
-🔗 Email: **shivanekottur04@gmail.com**
-
-🔗 LinkedIn: www.linkedin.com/in/shiv-kottur-117a24383
-
-🔗 Instagram: www.instagram.com/shivkottur_?igsh=MWMzenpmeWtmY2xyZA==
-
-🔗 X: https://x.com/KotturShiv
-
-🔗 LeetCode: https://leetcode.com/u/Shivane_Kottur/
+- Coding
+- Gaming
+- Playing Cricket
+- Cooking
 
 ---
 
-> Learning. Building. Growing.
+## Connect with Me
+
+Email: **shivanekottur04@gmail.com**
+
+LinkedIn: [linkedin.com/in/shiv-kottur-117a24383](https://www.linkedin.com/in/shiv-kottur-117a24383)
+
+Instagram: [instagram.com/shivkottur_](https://www.instagram.com/shivkottur_/)
+
+X: [x.com/KotturShiv](https://x.com/KotturShiv)
+
+LeetCode: [leetcode.com/u/Shivane_Kottur](https://leetcode.com/u/Shivane_Kottur/)
+
+---
+
+> **Learning. Building. Growing.**
