@@ -2,7 +2,7 @@
 
 B.E. in Computer Science and Engineering – Artificial Intelligence, 3rd Year Student at Ballari Institute of Technology and Management.
 
-I'm currently exploring **Cybersecurity** and **Data Analytics** while improving my **Python** skills and building real-world projects.
+I'm currently exploring **Data Analytics** while improving my **Python** skills and building real-world projects.
 
 I enjoy learning new technologies, solving problems, and turning ideas into practical solutions.
 
@@ -12,7 +12,6 @@ I enjoy learning new technologies, solving problems, and turning ideas into prac
 
 - B.E. CSE – Artificial Intelligence | 3rd Year
 - CGPA: **9.61**
-- Interested in Cybersecurity
 - Interested in Data Analytics
 - Python Learner
 - Building real-world projects
@@ -28,11 +27,13 @@ I enjoy learning new technologies, solving problems, and turning ideas into prac
 - Java (Basics)
 - Python
 - SQL
+- Haskell(Basics)
 
 ### Tools
 - VS Code
 - Jupyter Notebook
 - Turbo C++
+- Git and Github
 
 ---
 
