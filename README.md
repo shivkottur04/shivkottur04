@@ -57,7 +57,6 @@ I enjoy learning new technologies, solving problems, and turning ideas into prac
 - Learn something new every day
 - Contribute to Open Source
 - Prepare for placements
-- Strengthen my Cybersecurity knowledge
 - Improve my Data Analytics skills
 
 ---
