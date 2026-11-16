@@ -27,7 +27,6 @@ I enjoy learning new technologies, solving problems, and turning ideas into prac
 - Java (Basics)
 - Python
 - SQL
-- Haskell(Basics)
 
 ### Tools
 - VS Code
