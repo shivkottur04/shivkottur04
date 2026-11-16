@@ -44,9 +44,12 @@ I enjoy learning new technologies, solving problems, and turning ideas into prac
 
 ---
 
-## Certification
+## Certification and Activities
 
 - IEEE Neo Codex Participation Certificate
+- ExcelR- SDP on Git and Github
+- Cisco- Python Essentials 1
+- Smart India Hackathon(SIH) - Internal hackathon 2025
 
 ---
 
